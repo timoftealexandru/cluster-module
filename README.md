@@ -18,5 +18,5 @@ terminal #2
 curl localhost:8080
 ```
 
-![alt tag](http://i.imgur.com/Pr9bBez.jpg)
+![alt tag](http://i.imgur.com/B1Ucx6E.jpg)
 
