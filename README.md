@@ -11,12 +11,12 @@ terminal #1
 node index.js
 ```
 
-![alt tag](http://imgur.com/a/ddmWq)
+![alt tag](http://imgur.com/a/ddmWq.png)
 
 terminal #2
 ```
 curl localhost:8080
 ```
 
-![alt tag](http://imgur.com/a/YZ3FJ)
+![alt tag](http://imgur.com/a/YZ3FJ.png)
 
