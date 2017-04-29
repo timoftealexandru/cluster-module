@@ -4,7 +4,7 @@ A simple clustered node server
 ## Running
 ```
 npm install
-``
+```
 
 terminal #1
 ```
